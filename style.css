@@ -1,0 +1,59 @@
+.service {}
+
+.service h3 {
+    border: 2px solid #0dcaf0;
+}
+
+.service .service-item .item1 h2 {
+    background: #7d4b4b;
+    display: inline-block;
+    padding: 75px 13px;
+    border-radius: 0px 65px 65px 0px;
+    margin-left: 20%;
+    font-size: 50px;
+    color: #e8d5d5;
+
+
+}
+.service .service-item .item2 h2 {
+    background: #4f7d4b;
+    display: inline-block;
+    padding: 74px 66px;
+    border-radius: 65px 0px 0px 65px;
+    margin-left: 54%;
+    font-size: 50px;
+    color: #f49f9f;
+
+}
+.service .service-item .item3 h2 {
+    background: #340e9d;
+    display: inline-block;
+    padding: 54px 55px;
+    border-radius: 0px 65px 65px 0px;
+    margin-left: 20%;
+    font-size: 50px;
+    color: #e8d5d5;
+
+
+}
+.contact h3{
+    border: 2px solid #82caf0;
+    margin-bottom: 30px;
+}
+
+.contact input {
+    border: none;
+    box-shadow: -1px -2px 3px gray;
+    outline: none;
+    padding: 8px;
+    margin-left: 18px;
+    border-radius: 5px;
+}
+
+input.submit{
+    background: rgb(0, 132, 255);
+    color: white;
+    padding:5px 15px ;
+    /* display: inline-block; */
+
+}
